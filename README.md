@@ -23,8 +23,6 @@
 <div style="display:inline_block"><br/>
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-<p></p>
-<p></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+
 
 ## "Qualquer tecnologia suficientemente avançada é indistinta de magia." - Arthur C. Clarke
